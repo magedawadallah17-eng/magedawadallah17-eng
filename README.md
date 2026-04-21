@@ -1,54 +1,31 @@
 <div align="center">
+  
+<!-- Professional Animated Name with Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Maged+Awadalla+Yacoub;AI+%26+Data+Analytics+Trainee;Deep+Learning+Enthusiast;Computer+Vision+Explorer;AI+Agentic+Builder" alt="Typing SVG" />
+</a>
 
-# Hi there! 👋 I'm Maged Awadalla Yacoub  
-### 🤖 AI & Data Analytics Trainee | 📊 Data-Driven Problem Solver
+<!-- Professional Banner (Data Science Animation) -->
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImchqVqm5DZfS-T2og.gif" alt="Data Science Animation" width="80%"/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maged-awadalla/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magedawadallah17-eng)
+[![Email](https://img.shields.io/badge/Email-magedawadallah17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magedawadallah17@gmail.com)
 
-**"Turning business questions into actionable insights using Python, SQL, and AI."**  
-*Background in client relations & market analysis – now leveling up with a professional AI & Data Analytics diploma.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maged-awadalla/)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 </div>
 
-<hr>
-
-### 🛠️ Tech Stack & Tools
-
-**Data Science & AI:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Data Analytics & Visualization:**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Core Competencies:**  
-Data Cleaning | Business Analysis | Reporting & Insights | Problem Solving
-
-### 👨‍💻 About Me
+## 🧠 About Me
 
 ```python
 class MagedAwadalla:
     def __init__(self):
-        self.role = "AI & Data Analysis Trainee"
-        self.diploma = "Digilians – Ministry of Communications & IT × Military Technical College"
-        self.skills = ["Python", "SQL", "Excel", "Data Cleaning", "Visualization", "Business Analysis"]
-        self.experience = [
-            "Freelance Real Estate Consultant – client portfolio management & market analysis",
-            "Senior Sales Agent – data tracking & sales cycle optimization",
-            "Property Consultant – project coordination & design analysis"
-        ]
+        self.role = "AI & Data Analytics Trainee"
+        self.education = "Professional Diploma – Digilians (MCIT × Military Technical College)"
+        self.experience = ["Real Estate Consultant", "Senior Sales Agent", "Property Consultant"]
+        self.current_focus = ["Deep Learning", "Computer Vision", "AI Agentic Systems"]
+        self.tools = ["Python", "SQL", "Pandas", "TensorFlow", "OpenCV", "LangChain"]
         
-    def current_mission(self):
-        return "Solving real-world business problems with data, machine learning, and AI."
-    
-    def goal(self):
-        return "Become a professional AI & Data Analyst who drives data-informed decisions."
-        
-
+    def mission(self):
+        return "Build intelligent systems that see, learn, and act autonomously"
