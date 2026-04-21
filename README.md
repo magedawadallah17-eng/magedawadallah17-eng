@@ -1,47 +1,52 @@
-markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Maged+Awadalla+Yacoub;AI+%26+Data+Analytics+Trainee;Deep+Learning+%7C+Computer+Vision;AI+Agentic+Builder" alt="Typing SVG" />
+# Hi there! 👋 I'm Maged Awadalla Yacoub  
+### 🤖 AI & Data Analytics Trainee | 📊 Data-Driven Problem Solver
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImchqVqm5DZfS-T2og.gif" width="80%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>  
 
-<a href="https://www.linkedin.com/in/maged-awadalla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/magedawadallah17-eng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:magedawadallah17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+**"Turning business questions into actionable insights using Python, SQL, and AI."**  
+*Background in client relations & market analysis – now leveling up with a professional AI & Data Analytics diploma.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maged-awadalla/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false)
 
 </div>
 
-## 🧠 About Me
+<hr>
+
+### 🛠️ Tech Stack & Tools
+
+**Data Science & AI:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Data Analytics & Visualization:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Core Competencies:**  
+Data Cleaning | Business Analysis | Reporting & Insights | Problem Solving
+
+### 👨‍💻 About Me
 
 ```python
 class MagedAwadalla:
     def __init__(self):
-        self.role = "AI & Data Analytics Trainee"
-        self.education = "Digilians (MCIT × Military Technical College)"
-        self.experience = ["Real Estate Consultant", "Senior Sales Agent"]
-        self.skills = ["Deep Learning", "Computer Vision", "AI Agentic", "Python", "SQL", "TensorFlow", "OpenCV", "LangChain"]
-
-    def mission(self):
-        return "Build intelligent systems that see, learn, and act autonomously"
-🛠️ Tech Stack
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
-https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-
-🚀 Featured Projects
-Project	Tech	Status
-Handwritten Arabic OCR	CNN + LSTM, OpenCV	🔄 In Progress
-Real Estate Price Predictor	PyTorch, Geospatial	🔄 Data Collection
-AI Sales Assistant Agent	LangChain, OpenAI	🔄 Prototype
-Customer Churn Analysis	Python, SQL, Power BI	✅ Completed
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=magedawadallah17-eng&show_icons=true&theme=radical&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=magedawadallah17-eng&layout=compact&theme=radical&hide_border=true
-
-📫 Connect
-💼 LinkedIn • 📧 magedawadallah17@gmail.com • 📍 Cairo, Egypt
+        self.role = "AI & Data Analysis Trainee"
+        self.diploma = "Digilians – Ministry of Communications & IT × Military Technical College"
+        self.skills = ["Python", "SQL", "Excel", "Data Cleaning", "Visualization", "Business Analysis"]
+        self.experience = [
+            "Freelance Real Estate Consultant – client portfolio management & market analysis",
+            "Senior Sales Agent – data tracking & sales cycle optimization",
+            "Property Consultant – project coordination & design analysis"
+        ]
+        
+    def current_mission(self):
+        return "Solving real-world business problems with data, machine learning, and AI."
+    
+    def goal(self):
+        return "Become a professional AI & Data Analyst who drives data-informed decisions."
