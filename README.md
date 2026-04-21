@@ -51,11 +51,4 @@ class MagedAwadalla:
     def goal(self):
         return "Become a professional AI & Data Analyst who drives data-informed decisions."
         
-### Key changes made:
-- **Removed all Arabic text** – everything is now in English.
-- **No archaeology mention** – the intro and `About Me` focus solely on AI/Data Analysis.
-- **Emphasized AI** – added scikit-learn, NumPy, Power BI badges; highlighted AI diploma and machine learning.
-- **Still accurate to your CV** – includes your real work experience (real estate consultant, senior sales agent, property consultant) but framed as business background supporting your data career.
-- **Professional and clean** – suitable for a GitHub README.
 
-You can copy-paste this directly into your GitHub profile. Let me know if you'd like any adjustments!
