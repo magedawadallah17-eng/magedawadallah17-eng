@@ -78,71 +78,186 @@
 
 ---
 
+<!-- ===== SHORT PROFILE CODE ===== -->
+
 ```python
-# about_me.py
+# maged_awadalla.py
 
 class MagedAwadalla:
 
-    def __init__(self):
+    role = "Data Analyst | AI & Machine Learning"
 
-        self.role = "Data Analyst | AI & Machine Learning"
+    core_stack = {
+        "Data": ["Python", "SQL", "Excel", "Power BI"],
+        "Analytics": ["EDA", "Statistics", "Data Visualization"],
+        "AI_ML": ["Machine Learning", "AI Agents", "RAG"],
+        "GeoAI": ["QGIS", "ArcGIS", "Remote Sensing"]
+    }
 
-        self.languages = [
-            "Python",
-            "SQL"
-        ]
+    interests = [
+        "Business Intelligence",
+        "Artificial Intelligence",
+        "Geospatial Analytics",
+        "Decision Support Systems"
+    ]
 
-        self.data_analytics = [
-            "Pandas",
-            "NumPy",
-            "Excel",
-            "Exploratory Data Analysis",
-            "Statistical Analysis"
-        ]
+    mission = "Turn complex data into smarter decisions."
+```
 
-        self.business_intelligence = [
-            "Power BI",
-            "Data Visualization",
-            "Dashboard Development",
-            "Business Insights"
-        ]
+<br>
 
-        self.machine_learning = [
-            "Scikit-learn",
-            "Classification",
-            "Regression",
-            "Clustering",
-            "Predictive Modeling"
-        ]
+<div align="center">
 
-        self.ai = [
-            "AI Agents",
-            "RAG",
-            "LangChain",
-            "Automation"
-        ]
+### ⚡ Data → Insights → Decisions
 
-        self.geospatial = [
-            "QGIS",
-            "ArcGIS",
-            "Remote Sensing",
-            "Earth Observation",
-            "Geospatial Analytics"
-        ]
+`Data Analytics` • `Business Intelligence` • `Machine Learning` • `AI` • `GeoAI`
 
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Jupyter",
-            "MySQL",
-            "Streamlit"
-        ]
+</div>
 
-        self.current_focus = (
-            "Turning complex data into actionable "
-            "insights and intelligent solutions."
-        )
+---
 
+## 🚀 Featured Projects
 
-maged = MagedAwadalla()
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 MarketPulse
+
+**Turning E-Commerce Data into Smarter Business Decisions**
+
+End-to-end analytics project focused on transforming e-commerce data into actionable business insights.
+
+**Project Areas**
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Statistical Analysis
+- Marketing Funnel Analysis
+- Machine Learning
+- Power BI Decision Support
+
+**Stack**
+
+`Python` `Pandas` `Power BI` `Machine Learning` `Statistics`
+
+<br>
+
+<a href="https://github.com/magedawadallah17-eng/Marketing-Pulse">
+<img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏢 Prime Estates
+
+A technology-focused real-estate project exploring smarter digital solutions for property workflows and customer experience.
+
+**Focus**
+
+- Real Estate Technology
+- Digital Experience
+- Business Automation
+- Data-Driven Solutions
+
+**Stack**
+
+`Web` `Data` `Automation` `Real Estate`
+
+<br>
+
+<a href="https://github.com/magedawadallah17-eng/prime-estates">
+<img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+🤖  AI Agents & Intelligent Automation
+📊  Advanced Data Analytics
+🧠  Machine Learning
+🌍  Geospatial AI
+🛰️  Remote Sensing & Earth Observation
+📈  Business Decision Support
+```
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=magedawadallah17-eng&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  alt="Maged Awadalla GitHub Stats"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=magedawadallah17-eng&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+  alt="Most Used Languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  width="82%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=magedawadallah17-eng&theme=github-compact&hide_border=true&area=true"
+  alt="Contribution Graph"
+/>
+
+</div>
+
+---
+
+## 💡 What I Focus On
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data_Analytics-Driven-0A66C2?style=flat-square">
+<img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Business-Focused-217346?style=flat-square">
+<img src="https://img.shields.io/badge/GeoAI-Exploring-589632?style=flat-square">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maged_Awadalla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maged-awadalla/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-magedawadallah17-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:magedawadallah17@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-01032028159-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201032028159)
+
+<br>
+
+### Maged Awadalla
+
+`Data Analyst • AI & Machine Learning • Business Intelligence`
+
+<br>
+
+> **Turning Data Into Actionable Intelligence**
+
+</div>
