@@ -1,123 +1,63 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
 <div align="center">
 
-# Hi, I'm Maged Awadalla 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0891B2&height=220&section=header&text=Maged%20Awadalla&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Business%20Intelligence&descAlignY=55&descSize=17"/>
 
-### Data Analyst • AI & Machine Learning • Business Intelligence
-
+<a href="https://git.io/typing-svg">
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00B8D9&center=true&vCenter=true&width=750&lines=Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Data+%26+AI+Solutions;Exploring+Geospatial+AI+%26+Remote+Sensing"
-  alt="Typing SVG"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Data-Driven+%26+AI-Powered+Solutions+%F0%9F%A4%96;Exploring+Geospatial+AI+%26+Remote+Sensing+%F0%9F%8C%8D"
+alt="Typing SVG"
 />
-
-<br>
-
-<a href="https://www.linkedin.com/in/maged-awadalla/">
-  <img src="https://img.shields.io/badge/LinkedIn-Maged%20Awadalla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:magedawadallah17@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/magedawadallah17-eng">
-  <img src="https://img.shields.io/badge/GitHub-magedawadallah17--eng-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=magedawadallah17-eng&style=for-the-badge&color=00B8D9&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/maged-awadalla/">
+<img src="https://img.shields.io/badge/LinkedIn-Maged%20Awadalla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:magedawadallah17@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201032028159">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/magedawadallah17-eng">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=magedawadallah17-eng&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm **Maged Awadalla**, a Data Analyst focused on transforming complex data into meaningful insights, business decisions, and intelligent solutions.
-
-- 📊 Building **Data Analytics & Business Intelligence** solutions
-- 🐍 Working with **Python, SQL, Excel and Power BI**
-- 🤖 Exploring **Machine Learning, AI Agents and Intelligent Automation**
-- 🌍 Interested in **Geospatial Analytics, Earth Observation and Remote Sensing**
-- 📈 Focused on turning raw data into **actionable business insights**
-- 🧠 Continuously developing my skills in **Data Science & Artificial Intelligence**
-- 🤝 Open to **Data Analyst, BI, Junior Data Science and AI opportunities**
-
----
-
-# 🛠️ Tech Stack
-
-## 📊 Data Analytics & Business Intelligence
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-00B8D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-6C63FF?style=for-the-badge"/>
-
-</p>
-
-## 🐍 Python & Data Science
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-</p>
-
-## 🤖 AI & Machine Learning
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00BFA6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</p>
-
-## 🌍 Geospatial & Remote Sensing
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
-<img src="https://img.shields.io/badge/Remote%20Sensing-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Earth%20Observation-0277BD?style=for-the-badge"/>
-
-</p>
-
-## ⚙️ Development Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</p>
-
----
-
-# 🚀 What I Build
-
-```text
-📊 Business Intelligence Dashboards
-🔍 Exploratory Data Analysis
-🧹 Data Cleaning & Preparation
-🤖 Machine Learning Solutions
-🧠 AI Agents & Automation
-📈 Business & Marketing Analytics
-🌍 Geospatial & Remote Sensing Analytics
+```python
+maged = {
+    "name": "Maged Awadalla",
+    "role": "Data Analyst | AI & Machine Learning",
+    "focus": [
+        "Data Analytics",
+        "Business Intelligence",
+        "Machine Learning",
+        "AI Solutions",
+        "Geospatial Analytics",
+        "Remote Sensing"
+    ],
+    "tools": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Excel"
+    ],
+    "mission": "Turning data into smarter decisions."
+}
