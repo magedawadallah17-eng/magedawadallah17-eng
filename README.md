@@ -48,6 +48,7 @@ I build Python applications that connect language models to data and tools. My b
 
 - **LLM applications:** Python, LangChain, LangGraph, retrieval-augmented generation, ChromaDB and Pydantic
 - **Backend and development:** FastAPI, REST APIs, PostgreSQL, Docker Compose and Git
+- **Computer vision:** Image classification, CNNs, EfficientNetB3 and Keras fundamentals
 - **Machine learning and analytics:** scikit-learn, Pandas, SQL, Power BI and DAX
 
 ## Featured projects
@@ -59,6 +60,10 @@ Search Egyptian property listings by meaning or filter them by location, bedroom
 ### [AI Career & Assessment Orchestrator](https://github.com/magedawadallah17-eng/sprints-agentic-ai-coursework)
 
 A LangGraph prototype routes learner questions to an advisor or an assessor, keeps track of the conversation and pauses for human review on placement decisions. The demo runs locally with fixtures.
+
+### Oral Vision — Oral Disease Classification
+
+I contributed to a team project comparing deep learning models for classifying images of oral conditions. Our interactive demo used EfficientNetB3.
 
 ### [MarketPulse](https://github.com/magedawadallah17-eng/Marketing-Pulse)
 
